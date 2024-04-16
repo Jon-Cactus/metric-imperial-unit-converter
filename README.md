@@ -1,4 +1,4 @@
-** Thought Process
+## Thought Process
 
 This project was intimidating at first - I thought I would have to implement a bit of everything that I have learned up to this point: function parameters, objects, objects in arrays etc. 
 
